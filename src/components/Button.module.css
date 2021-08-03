@@ -1,0 +1,16 @@
+.button{
+    background: transparent;
+    color: pink;
+    border:2px solid pink;
+    font-size: 16px;
+    padding: 5px 15px;
+    margin: 10px;
+}
+.button_on{
+    border:2px solid pink;
+    font-size: 16px;
+    padding: 5px 15px;
+    margin: 10px;
+    background: pink;
+    color: #fff;
+}
